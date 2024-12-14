@@ -9,5 +9,6 @@ Added generate_splash.sh script to run it on linux
 5. Flash the .zip via recovery!!
 
 ## Note:
-Image must be in "bmp" format.
+- Image must be in "bmp" format.
+- Resolution must be 1080 x 2340
 
