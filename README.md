@@ -1,6 +1,6 @@
 ## Splash Tool For Redmi Note 7
 
-Added .sh script to run it on linux
+Added generate_splash.sh script to run it on linux
 
 1. Clone Repo : https://github.com/rafli-raihan/splash_tool_lavender_violet_linux
 2. Unzip META-INF file
